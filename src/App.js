@@ -4,7 +4,7 @@ import modernGoatee from './images/Modern_Goatee.png';
 import modernMustache from './images/Modern_Mustache.png';
 import shortBeard from './images/Short Beard.png';
 import stubble from './images/Stubble.png';
-import './App.scss';
+import './App.css';
 
 const imageAssets = [longBeard, modernGoatee, modernMustache, shortBeard, stubble];
 const totalRows = 5;
